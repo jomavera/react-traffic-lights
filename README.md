@@ -1,4 +1,4 @@
-# Seconds Counter with React
+# Traffic Lights with React
 
 ##### Install the npm package:
 ```
